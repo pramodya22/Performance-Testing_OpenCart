@@ -79,5 +79,42 @@ In this project, Apache JMeter is used to perform various performance tests on a
 
 ---
 
-## 📁 Project Structure
+---
+
+## 📈 Results Summary
+
+- The application performed well under moderate load
+- Response time increased significantly during stress testing
+- Errors occurred when user load exceeded server capacity
+- System remained stable during endurance testing with low concurrency
+
+---
+
+## ⚠ Limitations
+
+- Testing performed only on localhost
+- Real network latency not considered
+- Limited hardware resources
+
+---
+
+## 🚀 Future Enhancements
+
+- Distributed JMeter testing
+- Cloud-based load testing
+- CI/CD pipeline integration
+- Security and penetration testing
+- Real-time monitoring using Grafana
+
+---
+
+## 📚 References
+
+- Apache JMeter Documentation  
+- OpenCart Official Documentation  
+- Software Testing Concepts and Practices  
+
+---
+
+
 
